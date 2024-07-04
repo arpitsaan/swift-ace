@@ -18,5 +18,7 @@
         <page name='Strategy'/>
         <page name='Template'/>
         <page name='Flyweight'/>
+        <page name='ChainOfReponsibility'/>
+        <page name='Command'/>
     </pages>
 </playground>
