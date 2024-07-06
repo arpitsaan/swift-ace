@@ -20,5 +20,12 @@
         <page name='Flyweight'/>
         <page name='ChainOfReponsibility'/>
         <page name='Command'/>
+        <page name='Interpretor'/>
+        <page name='Memento'/>
+        <page name='State'/>
+        <page name='Visitor'/>
+        <page name='Delegate'/>
+        <page name='MulticastDelegate'/>
+        <page name='Coordinator'/>
     </pages>
 </playground>
