@@ -27,5 +27,8 @@
         <page name='Delegate'/>
         <page name='MulticastDelegate'/>
         <page name='Coordinator'/>
+        <page name='Repository'/>
+        <page name='Iterator'/>
+        <page name='Repository-async'/>
     </pages>
 </playground>
