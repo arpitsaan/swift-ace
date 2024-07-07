@@ -21,6 +21,7 @@
         <page name='ChainOfReponsibility'/>
         <page name='Command'/>
         <page name='Interpretor'/>
+        <page name='Iterator'/>
         <page name='Memento'/>
         <page name='State'/>
         <page name='Visitor'/>
@@ -28,7 +29,6 @@
         <page name='MulticastDelegate'/>
         <page name='Coordinator'/>
         <page name='Repository'/>
-        <page name='Iterator'/>
         <page name='Repository-async'/>
     </pages>
 </playground>
